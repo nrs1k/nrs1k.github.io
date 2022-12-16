@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html">
+<link rel="stylesheet" href="static/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="background-color: rgb(20, 20, 20);">
+<h1>Инструкция MINECRAFT</h1>
+<div class="row">
+  <div class="column">
+    <div class="card">
+    <a href="https://www.mediafire.com/file/fz3so97228fdar4/Minecraft_Installer.apk/file"></a>
+      <div class="container">
+        <h2>Установщик</h2>
+      </div>
+    </div>
+  </div>
+  
+<div class="row">
+  <div class="column">
+    <div class="card">
+    <a href="https://add.aternos.org/rxxl"></a>
+      <div class="container">
+        <h2>Добавить сервер</h2>
+      </div>
+    </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+    <a href="https://aternos.org/servers"></a>
+      <div class="container">
+        <h2>Управлять сервером</h2>
+      </div>
+    </div>
+</div>
+
+</div></div></div></div></body></html>
